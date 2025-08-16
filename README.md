@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Francesco Sica — *Cross-Platform Developer*
 
-<!--
-**BristoFK/BristoFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I design and develop applications for **Mobile, Web, and Desktop** platforms.  
+My goal is to create software that combines **functionality, performance, and great user experience**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Main Skills
+- **Mobile Development** → Kotlin (Android), Flutter (cross-platform)
+- **Web Development** → JavaScript, TypeScript
+- **Desktop Applications** → Flutter, Electron
+- **UI/UX Design** → modern, intuitive, and responsive interfaces
+- **API Integration** → real-time data and custom features
